@@ -2,7 +2,7 @@ import axios from "axios";
 import styles from '../../styles/Home.module.css'
 import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/solid'
 import React, { useState, useEffect } from 'react';
-
+//aaaaaaaaaaaaaaaa
 export default function Post(){
     console.log('kiểm tra')
     async function postData(){
