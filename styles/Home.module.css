@@ -104,7 +104,12 @@
   font-size: 1.25rem;
   line-height: 1.5;
 }
-
+.gridContainer {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 30px 30px;
+  padding: 10px;
+}
 .logo {
   height: 1em;
   margin-left: 0.5rem;
